@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e06aad2a.css",
+    "main.js": "/static/js/main.d1a8b4e3.js",
+    "static/media/futura medium bt.ttf": "/static/media/futura medium bt.4e762c29ef7b44ca51cb.ttf",
+    "static/media/futura light bt.ttf": "/static/media/futura light bt.ead7282f8edac7904e53.ttf",
+    "static/media/Logo Profile page.svg": "/static/media/Logo Profile page.d792a4186ede08c33d31ccc1489508f7.svg",
+    "index.html": "/index.html",
+    "main.e06aad2a.css.map": "/static/css/main.e06aad2a.css.map",
+    "main.d1a8b4e3.js.map": "/static/js/main.d1a8b4e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e06aad2a.css",
+    "static/js/main.d1a8b4e3.js"
+  ]
+}

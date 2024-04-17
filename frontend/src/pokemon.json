@@ -1,0 +1,140 @@
+[
+  {
+    "name": "bulbasaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "evolution": "ivysaur"
+  },
+  {
+    "name": "ivysaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "evolution": "venusaur"
+  },
+  {
+    "name": "venusaur",
+    "type1": "Grass",
+    "type2": "Poison",
+    "evolution": ""
+  },
+  {
+    "name": "charmander",
+    "type1": "Fire",
+    "type2": "",
+    "evolution": "charmeleon"
+  },
+  {
+    "name": "charmeleon",
+    "type1": "Fire",
+    "type2": "",
+    "evolution": "charizard"
+  },
+  {
+    "name": "charizard",
+    "type1": "Fire",
+    "type2": "Flying",
+    "evolution": ""
+  },
+  {
+    "name": "squirtle",
+    "type1": "Water",
+    "type2": "",
+    "evolution": "wartortle"
+  },
+  {
+    "name": "wartortle",
+    "type1": "Water",
+    "type2": "",
+    "evolution": "blastoise"
+  },
+  {
+    "name": "blastoise",
+    "type1": "Water",
+    "type2": "",
+    "evolution": ""
+  },
+  {
+    "name": "caterpie",
+    "type1": "Bug",
+    "type2": "",
+    "evolution": "metapod"
+  },
+  {
+    "name": "metapod",
+    "type1": "Bug",
+    "type2": "",
+    "evolution": "butterfree"
+  },
+  {
+    "name": "butterfree",
+    "type1": "Bug",
+    "type2": "Flying",
+    "evolution": ""
+  },
+  {
+    "name": "weedle",
+    "type1": "Bug",
+    "type2": "Poison",
+    "evolution": "kakuna"
+  },
+  {
+    "name": "kakuna",
+    "type1": "Bug",
+    "type2": "Poison",
+    "evolution": "beedrill"
+  },
+  {
+    "name": "beedrill",
+    "type1": "Bug",
+    "type2": "Poison",
+    "evolution": ""
+  },
+  {
+    "name": "pidgey",
+    "type1": "Normal",
+    "type2": "Flying",
+    "evolution": "pidgeotto"
+  },
+  {
+    "name": "pidgeotto",
+    "type1": "Normal",
+    "type2": "Flying",
+    "evolution": "pidgeot"
+  },
+  {
+    "name": "pidgeot",
+    "type1": "Normal",
+    "type2": "Flying",
+    "evolution": ""
+  },
+  {
+    "name": "rattata",
+    "type1": "Normal",
+    "type2": "",
+    "evolution": "raticate"
+  },
+  {
+    "name": "raticate",
+    "type1": "Normal",
+    "type2": "",
+    "evolution": ""
+  },
+  {
+    "name": "spearow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "evolution": "fearow"
+  },
+  {
+    "name": "fearow",
+    "type1": "Normal",
+    "type2": "Flying",
+    "evolution": ""
+  },
+  {
+    "name": "ekans",
+    "type1": "Poison",
+    "type2": "",
+    "evolution": "arbok"
+  }
+]
